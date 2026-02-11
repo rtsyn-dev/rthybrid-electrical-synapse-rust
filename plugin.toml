@@ -1,0 +1,5 @@
+name = "RTHybrid Electrical Synapse"
+kind = "rthybrid_electrical_synapse"
+version = "0.1.0"
+description = "Gap-junction model with scale/offset mapping"
+library = "librthybrid_electrical_synapse.so"
